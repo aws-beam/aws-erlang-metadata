@@ -1,3 +1,9 @@
+# Superseded; please use aws_credentials instead
+
+This project has been archived and superseded by [aws_credentials](https://github.com/aws-beam/aws_credentials) 
+
+We very strongly encourage you to use that project for any new development.
+
 # AWS instance metadata support for aws-erlang
 
 [![Build Status](https://travis-ci.org/jkakar/aws-erlang-metadata.svg)](https://travis-ci.org/jkakar/aws-erlang-metadata)
